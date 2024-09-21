@@ -1,4 +1,4 @@
-# Hello! I’m @AdrianRodriguezJorge 👋  
+# 👋 I’m @Adrián Rodríguez Jorge   
 - 💻 I’m a Computer Engineering student with a focus on software development and a great passion for technology.
 
   ## 🔧 Skills  
