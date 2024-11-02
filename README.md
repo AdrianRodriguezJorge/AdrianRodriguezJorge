@@ -3,7 +3,6 @@
 
 ## 🔧 Skills  
 - **Programming Languages:** Python, Java, C
-- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 - **Web Development:** HTML, CSS, JavaScript
 - **Databases:** PostgreSQL, SQLServer
 - **Tools:** Git, Visual Studio Code 
