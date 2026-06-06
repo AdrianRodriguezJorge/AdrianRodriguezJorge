@@ -78,14 +78,14 @@ Here are some of my key projects:
 - **Email:** [adrianrodriguezjorge02@gmail.com](mailto:adrianrodriguezjorge02@gmail.com)
 - **GitHub:** [@AdrianRodriguezJorge](https://github.com/AdrianRodriguezJorge)
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=AdrianRodriguezJorge&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<a href="https://github.com/AdrianRodriguezJorge">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdrianRodriguezJorge&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdrianRodriguezJorge&layout=compact&theme=radical" />
-</a>
+| Metric | Badge |
+|--------|-------|
+| **GitHub Profile** | [![GitHub Badge](https://img.shields.io/badge/GitHub-AdrianRodriguezJorge-blue?logo=github&style=flat)](https://github.com/AdrianRodriguezJorge) |
+| **Repositories** | ![Repos Badge](https://img.shields.io/badge/Repos-10+-brightgreen?style=flat) |
+| **Primary Language** | ![Python Badge](https://img.shields.io/badge/Language-Python-blue?logo=python&style=flat) |
+| **Top Tech Stack** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&style=flat) |
 
 ## 🤝 Open to Collaboration
 
