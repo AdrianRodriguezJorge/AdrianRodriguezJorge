@@ -77,11 +77,14 @@ Here are some of my key projects:
 - **Email:** [adrianrodriguezjorge02@gmail.com](mailto:adrianrodriguezjorge02@gmail.com)
 - **GitHub:** [@AdrianRodriguezJorge](https://github.com/AdrianRodriguezJorge)
 
-## ⚙️ GitHub Statistics
+## 📊 GitHub Activity
 
-![AdrianRodriguezJorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianRodriguezJorge&show_icons=true&theme=radical)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=AdrianRodriguezJorge&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianRodriguezJorge&layout=compact&theme=radical)
+<a href="https://github.com/AdrianRodriguezJorge">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdrianRodriguezJorge&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdrianRodriguezJorge&layout=compact&theme=radical" />
+</a>
 
 ## 🤝 Open to Collaboration
 
