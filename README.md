@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🔧 Skills  
 
 - **Programming Languages:** Python, Java, TypeScript, C
-- **Frontend Development:** Vue.js, HTML, CSS, JavaScript, Bootstrap
-- **Backend Development:** NestJS, Node.js
+- **Frontend Development:** Vue.js, Next.js, React, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+- **Backend Development:** FastAPI, NestJS, Node.js
 - **Machine Learning & Federated Learning:** Python, Ensemble Methods, Algorithm Design
 - **ERP Development:** Odoo
 - **Databases:** PostgreSQL, SQLServer
@@ -30,9 +30,10 @@ Here are some of my key projects:
     - **Key Features:** Multiple aggregation strategies, non-IID data handling, statistical validation, communication-efficient algorithms
 
 - **[student-management-system](https://github.com/AdrianRodriguezJorge/student-management-system)** ⭐ *Recent*
-    - **Description:** A comprehensive TypeScript-based system for managing student information and academic records.
-    - **Technologies Used:** TypeScript, Node.js
+    - **Description:** Fullstack academic management system connecting a modern Next.js interface with a FastAPI REST API. Manages students, subjects, and grades with complete relational integrity, email validation, and reactive UI state management.
+    - **Technologies Used:** Next.js 15, React, Tailwind CSS, TypeScript, FastAPI, SQLAlchemy, PostgreSQL, Python 3.12
     - **Status:** Active Development
+    - **Key Features:** Fullstack architecture, CRUD operations, data validation, cascading relationships, interactive dashboard
 
 - **[FromYourStudents](https://github.com/AdrianRodriguezJorge/FromYourStudents)**
     - **Description:** A collaborative platform connecting students with valuable feedback and insights.
@@ -66,8 +67,8 @@ Here are some of my key projects:
 
 ## 💼 What I Do
 
-- **Web Development:** Building modern, responsive web applications with Vue.js and NestJS
-- **Backend Solutions:** Developing robust APIs and microservices
+- **Fullstack Web Development:** Building complete web applications with modern frontend frameworks (Next.js, Vue.js) and robust backend services (FastAPI, NestJS)
+- **Backend Solutions:** Developing robust APIs, REST services, and microservices
 - **Machine Learning & Federated Learning:** Designing and implementing advanced ML algorithms and distributed learning frameworks
 - **Data Science:** Applying machine learning techniques to solve real-world problems
 - **System Design:** Creating scalable and maintainable software architectures
