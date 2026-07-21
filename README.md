@@ -23,17 +23,33 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 Here are some of my key projects:
 
-- **[federated_proactive_forest](https://github.com/AdrianRodriguezJorge/federated_proactive_forest)** ⭐ *Production-Ready*
-    - **Description:** A high-performance horizontal federated learning framework implementing 13+ aggregation strategies including the innovative S9 Global Roulette algorithm. Features deterministic validation, comprehensive benchmarking, and interactive Streamlit UI.
+### ⭐ Production-Ready & Active Projects
+
+- **[federated_proactive_forest](https://github.com/AdrianRodriguezJorge/federated_proactive_forest)** 
+    - **Description:** A high-performance horizontal federated learning framework implementing 13+ aggregation strategies including the innovative S9 Global Roulette algorithm. Features deterministic and stochastic algorithms for distributed machine learning.
     - **Technologies Used:** Python, Federated Learning, Ensemble Methods, FLEX Framework, Streamlit, Optuna, Machine Learning
     - **Status:** Active Development | v3.0.0 Production Release
     - **Key Features:** Multiple aggregation strategies, non-IID data handling, statistical validation, communication-efficient algorithms
 
-- **[student-management-system](https://github.com/AdrianRodriguezJorge/student-management-system)** ⭐ *Recent*
-    - **Description:** Fullstack academic management system connecting a modern Next.js interface with a FastAPI REST API. Manages students, subjects, and grades with complete relational integrity, email validation, and reactive UI state management.
+- **[student-management-system](https://github.com/AdrianRodriguezJorge/student-management-system)**
+    - **Description:** Fullstack academic management system connecting a modern Next.js interface with a FastAPI REST API. Manages students, subjects, and grades with complete relational integrity.
     - **Technologies Used:** Next.js 15, React, Tailwind CSS, TypeScript, FastAPI, SQLAlchemy, PostgreSQL, Python 3.12
     - **Status:** Active Development
     - **Key Features:** Fullstack architecture, CRUD operations, data validation, cascading relationships, interactive dashboard
+
+### 🛠️ CLI Tools & Utilities
+
+- **[puml-cli](https://github.com/AdrianRodriguezJorge/puml-cli)**
+    - **Description:** Command-line tool for working with PlantUML diagrams and visualizations.
+    - **Technologies Used:** Python
+    - **Status:** Active
+
+- **[toolbox-cli](https://github.com/AdrianRodriguezJorge/toolbox-cli)**
+    - **Description:** Versatile command-line toolbox with multiple utilities for developers.
+    - **Technologies Used:** Python
+    - **Status:** Active
+
+### 🎮 Web Applications & Frontend Projects
 
 - **[FromYourStudents](https://github.com/AdrianRodriguezJorge/FromYourStudents)**
     - **Description:** A collaborative platform connecting students with valuable feedback and insights.
@@ -45,11 +61,6 @@ Here are some of my key projects:
     - **Technologies Used:** Vue.js, Vue Router, Bootstrap, Pinia
     - **Status:** Maintained
 
-- **[Student_Dropout_Prediction](https://github.com/AdrianRodriguezJorge/Student_Dropout_Prediction)**
-    - **Description:** Machine learning project predicting student dropout rates using logistic regression and SMOTE.
-    - **Technologies Used:** Python, Machine Learning (Logistic Regression), SMOTE, Streamlit
-    - **Status:** Completed
-
 - **[TicTacToe](https://github.com/AdrianRodriguezJorge/TicTacToe)**
     - **Description:** Interactive TicTacToe game with a responsive UI.
     - **Technologies Used:** Vue.js
@@ -60,10 +71,46 @@ Here are some of my key projects:
     - **Technologies Used:** HTML, CSS
     - **Status:** Completed
 
+### 🤖 Machine Learning & Data Science
+
+- **[Student_Dropout_Prediction](https://github.com/AdrianRodriguezJorge/Student_Dropout_Prediction)**
+    - **Description:** Machine learning project predicting student dropout rates using logistic regression and SMOTE.
+    - **Technologies Used:** Python, Machine Learning (Logistic Regression), SMOTE, Streamlit
+    - **Status:** Completed
+
+- **[Sistema-de-Gestión-de-Seguros](https://github.com/AdrianRodriguezJorge/Sistema-de-Gesti-n-de-Seguros)**
+    - **Description:** Insurance management system with data processing and analysis capabilities.
+    - **Technologies Used:** Python
+    - **Status:** Completed
+
+### 💻 Backend & Data Structures
+
 - **[Huffman](https://github.com/AdrianRodriguezJorge/Huffman)**
     - **Description:** Implementation of Huffman coding algorithm for data compression.
     - **Technologies Used:** Java
     - **Status:** Completed
+
+- **[Soccer-League](https://github.com/AdrianRodriguezJorge/Soccer-League)**
+    - **Description:** Backend system for managing soccer league data and operations.
+    - **Technologies Used:** Java
+    - **Status:** Completed
+
+## 📊 Projects Overview
+
+| Project | Language | Type | Status |
+|---------|----------|------|--------|
+| federated_proactive_forest | Python | ML/Federated Learning | 🟢 Active |
+| student-management-system | TypeScript/Python | Fullstack | 🟢 Active |
+| puml-cli | Python | CLI Tool | 🟢 Active |
+| toolbox-cli | Python | CLI Tool | 🟢 Active |
+| FromYourStudents | Vue.js | Web App | 🟡 Maintained |
+| SoccerLeague | Vue.js | Web App | 🟡 Maintained |
+| TicTacToe | Vue.js | Game | ✅ Complete |
+| Portfolio | HTML/CSS | Website | ✅ Complete |
+| Student_Dropout_Prediction | Python | ML/Data Science | ✅ Complete |
+| Sistema-de-Gestión-de-Seguros | Python | Backend | ✅ Complete |
+| Huffman | Java | Algorithms | ✅ Complete |
+| Soccer-League | Java | Backend | ✅ Complete |
 
 ## 💼 What I Do
 
@@ -71,6 +118,7 @@ Here are some of my key projects:
 - **Backend Solutions:** Developing robust APIs, REST services, and microservices
 - **Machine Learning & Federated Learning:** Designing and implementing advanced ML algorithms and distributed learning frameworks
 - **Data Science:** Applying machine learning techniques to solve real-world problems
+- **CLI Tools Development:** Creating efficient command-line utilities for developers
 - **System Design:** Creating scalable and maintainable software architectures
 
 ## 📫 Get in Touch
@@ -80,12 +128,12 @@ Here are some of my key projects:
 
 ## 📊 GitHub Stats
 
-| Metric | Badge |
+| Metric | Value |
 |--------|-------|
 | **GitHub Profile** | [![GitHub Badge](https://img.shields.io/badge/GitHub-AdrianRodriguezJorge-blue?logo=github&style=flat)](https://github.com/AdrianRodriguezJorge) |
-| **Repositories** | ![Repos Badge](https://img.shields.io/badge/Repos-10+-brightgreen?style=flat) |
-| **Primary Language** | ![Python Badge](https://img.shields.io/badge/Language-Python-blue?logo=python&style=flat) |
-| **Top Tech Stack** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&style=flat) |
+| **Public Repositories** | 12 |
+| **Primary Language** | Python |
+| **Top Tech Stack** | TypeScript, Python, Vue.js, Java |
 
 ## 🤝 Open to Collaboration
 
